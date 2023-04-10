@@ -2,7 +2,7 @@
 # Table of Contents:
 
 ## Part 1: Fundamentals
--------------------------------------------------------------------
+
 ## [Lesson 03: Layout][f03-layout]
 #### Chapter 01: Introduction
 #### [Chapter 02: Dimentions][f03-layout-dimensions]
