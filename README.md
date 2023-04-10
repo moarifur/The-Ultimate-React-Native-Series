@@ -4,7 +4,7 @@
 ### Part 1: Fundamentals
 -   [02. Fundamental Concepts]
 -   [03. Layout][f03-layout]
--     [02. Dimensions][f03-layout-dimensions]
+-   [02. Dimensions][f03-layout-dimensions]
 -   [04. Styling]
 -   [05. Lists]
 -   [06. Input Components]
