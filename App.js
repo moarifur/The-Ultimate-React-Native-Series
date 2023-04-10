@@ -1,14 +1,9 @@
 import React from 'react';
-import {Text, View} from "react-native-web";
-import {Dimensions} from "react-native";
+import Dimensions from "./app/fundamentals/layout/dimension";
 
 export default function App() {
   return (
-    <View>
-      <Text>
-          The Ultimate React Native Series: Fundamentals
-      </Text>
-    </View>
+    <Dimensions />
   );
 }
 
